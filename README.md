@@ -126,24 +126,15 @@ In the process of creating the User we will need to create a password and leave 
 ![Screenshot 2024-10-03 154530](https://github.com/user-attachments/assets/62ed4f68-1d1a-409d-b1b2-957397510598)
 
 <br/>
-Jane Doe has been added to the "_ADMINS" OU, but she hasn't been officially assigned as an admin yet. To finalize her admin status, right-click on her username, select "Properties," go to the "Member of" tab, and click "Add." Type "Domain admins," click "Check names," then hit "OK," "Apply," and "OK" again to confirm.
-<p align="center">
 
+<p align="center">
+Jane Doe has been added to the "_ADMINS" OU, but she hasn't been officially assigned as an admin yet. To finalize her admin status, right-click on her username, select "Properties," go to the "Member of" tab, and click "Add." Type "Domain admins," click "Check names," then hit "OK," "Apply," and "OK" again to confirm.
 <br/>
 
 ![Screenshot 2024-10-03 160643](https://github.com/user-attachments/assets/d8a9b38f-6810-4a05-ba18-81b2534e346c)
+![Screenshot 2024-10-03 160600](https://github.com/user-attachments/assets/b243013b-dc00-40c3-9d9b-20ae0e71cd78)
 
-
-
-
-
-
-
-
-
-
-
-
+<br/>
 
 <p align="center"> 
 Now we will log out of the DC and log back in as Jane using her credentials 
